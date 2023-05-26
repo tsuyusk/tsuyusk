@@ -1,5 +1,5 @@
 <h1 align="center">Howdy! I'm Tsuy 👋</h1>
-<h3 align="center">Still a student, but soon a problem solver</h3>
+<h3 align="center"></h3>
 
 <br>
 
