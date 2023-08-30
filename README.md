@@ -1,7 +1,9 @@
-<h1 align="center">Supp! I'm Tsuy 👋</h1>
+<h1 align="center">Supp! I'm <a href="https://rafaelsantana.vercel.app">Tsuy</a> 👋</h1>
 <h3 align="center">Computer Science Student at Universidade Federal de Minas Gerais</h3>
 
 <br>
+
+ <a href="https://rafaelsantana.vercel.app">Click here to see my portfolio</a>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=tsuyusk&label=Profile%20views&color=0e75b6&style=flat"
     alt="tsuyusk" /> 
