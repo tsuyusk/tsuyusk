@@ -1,5 +1,5 @@
-<h1 align="center">Howdy! I'm Tsuy 👋</h1>
-<h3 align="center"></h3>
+<h1 align="center">Supp! I'm Tsuy 👋</h1>
+<h3 align="center">Computer Science Student at Universidade Federal de Minas Gerais</h3>
 
 <br>
 
@@ -11,9 +11,9 @@
 
 <p><img align="right" src="https://github.com/tsuyusk/tsuyusk/blob/main/animation_500_kxa883sd.gif" alt="tsuyusk" /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- ⚡ Fun fact :- Music and Gaming are what makes life brighter 🎵 🎮
+- 🌱 Since I have high capabilities of analyzing Web code, right now I'm exploring other paths programming can offer (ML, etc)
+- ⚡ Fun Fact (1): Im a great Valorant and League of Legends player, lol
+- ⚡ Fun Fact (2): I love music, so I also play guitar and other instruments
 
 <br>
 
@@ -73,5 +73,3 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-Template by: [Adam-pw](https://github.com/Adam-pw)
